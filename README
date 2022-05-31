@@ -1,0 +1,2 @@
+A simple case of using Monte Carlo in Python to calculate a European option price and compare the Monte-Carlo result with the Black-Scholes-Merton result.
+See the description on https://risksir.com/python/22-monte-carlo-python
